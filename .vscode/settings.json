@@ -1,0 +1,9 @@
+{
+    "slidev.force-enabled": true,
+    "slidev.include": [
+        "**/slides.md",
+        "slidev.md"
+    ],
+    "slidev.port": 3030,
+    "slidev.preview-sync": true
+}

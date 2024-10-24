@@ -1,0 +1,15 @@
+html {
+  font-size: 20px; /* Set default font size */
+}
+
+:root {
+    /* --slidev-code-padding: 1rem; */
+
+    --slidev-code-font-size: 23 px;
+    --slidev-code-line-height: 25px;
+
+}
+
+/* .slidev-layout {
+    background-color: #2e1f5e
+} */
